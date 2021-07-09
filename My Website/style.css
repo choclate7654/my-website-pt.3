@@ -1,0 +1,28 @@
+.header{
+    background-color: blueviolet;
+    display:flex;
+    justify-content:space-between
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+.item{
+    display:flec;
+    justify-content:first baseline;
+    flex-direction:column;
+}
+H1{
+    color:blue
+}
+p,h2{
+    text-align:center
+}
+body{
+    background-color:#ebe909
+}
